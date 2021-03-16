@@ -7,7 +7,7 @@
 - Enviroment: Linux + Python 3
 
 ```sheel
-pip install git+https://github.com/ZebinYang/seqmml.git
+pip install git+https://github.com/ZebinYang/SeqUD.git
 ```
 
 # Example
